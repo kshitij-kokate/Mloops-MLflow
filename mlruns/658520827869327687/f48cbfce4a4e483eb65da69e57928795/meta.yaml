@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/658520827869327687/f48cbfce4a4e483eb65da69e57928795/artifacts
+end_time: 1739783682699
+entry_point_name: ''
+experiment_id: '658520827869327687'
+lifecycle_stage: active
+run_id: f48cbfce4a4e483eb65da69e57928795
+run_name: sneaky-fawn-970
+run_uuid: f48cbfce4a4e483eb65da69e57928795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739783675862
+status: 3
+tags: []
+user_id: Kshitij
