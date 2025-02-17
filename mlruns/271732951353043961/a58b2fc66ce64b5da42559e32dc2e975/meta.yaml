@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Kshitij/OneDrive/Desktop/mlops/Mloops-MLflow/mlruns/271732951353043961/a58b2fc66ce64b5da42559e32dc2e975/artifacts
+end_time: 1739787821251
+entry_point_name: ''
+experiment_id: '271732951353043961'
+lifecycle_stage: active
+run_id: a58b2fc66ce64b5da42559e32dc2e975
+run_name: bedecked-lark-668
+run_uuid: a58b2fc66ce64b5da42559e32dc2e975
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739787821231
+status: 3
+tags: []
+user_id: Kshitij

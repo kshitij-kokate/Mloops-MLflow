@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Kshitij/OneDrive/Desktop/mlops/Mloops-MLflow/mlruns/271732951353043961/108ea6e6ea1749ad9c07b6f2bf580af7/artifacts
+end_time: 1739787656240
+entry_point_name: ''
+experiment_id: '271732951353043961'
+lifecycle_stage: active
+run_id: 108ea6e6ea1749ad9c07b6f2bf580af7
+run_name: bemused-cub-878
+run_uuid: 108ea6e6ea1749ad9c07b6f2bf580af7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739787656214
+status: 3
+tags: []
+user_id: Kshitij

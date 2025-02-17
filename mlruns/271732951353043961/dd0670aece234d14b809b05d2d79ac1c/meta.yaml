@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Kshitij/OneDrive/Desktop/mlops/Mloops-MLflow/mlruns/271732951353043961/dd0670aece234d14b809b05d2d79ac1c/artifacts
+end_time: 1739787826025
+entry_point_name: ''
+experiment_id: '271732951353043961'
+lifecycle_stage: active
+run_id: dd0670aece234d14b809b05d2d79ac1c
+run_name: fun-bug-907
+run_uuid: dd0670aece234d14b809b05d2d79ac1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739787817064
+status: 3
+tags: []
+user_id: Kshitij

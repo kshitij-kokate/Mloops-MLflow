@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Kshitij/OneDrive/Desktop/mlops/Mloops-MLflow/mlruns/271732951353043961/689d5ac341fe42b09ae8f7ab0843f7f7/artifacts
+end_time: 1739787821004
+entry_point_name: ''
+experiment_id: '271732951353043961'
+lifecycle_stage: active
+run_id: 689d5ac341fe42b09ae8f7ab0843f7f7
+run_name: victorious-horse-656
+run_uuid: 689d5ac341fe42b09ae8f7ab0843f7f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739787820921
+status: 3
+tags: []
+user_id: Kshitij

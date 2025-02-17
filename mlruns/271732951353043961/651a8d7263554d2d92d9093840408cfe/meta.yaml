@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Kshitij/OneDrive/Desktop/mlops/Mloops-MLflow/mlruns/271732951353043961/651a8d7263554d2d92d9093840408cfe/artifacts
+end_time: 1739787821041
+entry_point_name: ''
+experiment_id: '271732951353043961'
+lifecycle_stage: active
+run_id: 651a8d7263554d2d92d9093840408cfe
+run_name: delicate-lynx-153
+run_uuid: 651a8d7263554d2d92d9093840408cfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739787821021
+status: 3
+tags: []
+user_id: Kshitij

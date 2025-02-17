@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Kshitij/OneDrive/Desktop/mlops/Mloops-MLflow/mlruns/271732951353043961/0af6702a0d0b4875aed86772eeb278ef/artifacts
+end_time: 1739787656360
+entry_point_name: ''
+experiment_id: '271732951353043961'
+lifecycle_stage: active
+run_id: 0af6702a0d0b4875aed86772eeb278ef
+run_name: luminous-fowl-159
+run_uuid: 0af6702a0d0b4875aed86772eeb278ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739787656340
+status: 3
+tags: []
+user_id: Kshitij

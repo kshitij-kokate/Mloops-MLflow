@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Kshitij/OneDrive/Desktop/mlops/Mloops-MLflow/mlruns/271732951353043961/b1170cde9bb149d4bd4dbfcb3febf445/artifacts
+end_time: 1739787656442
+entry_point_name: ''
+experiment_id: '271732951353043961'
+lifecycle_stage: active
+run_id: b1170cde9bb149d4bd4dbfcb3febf445
+run_name: languid-snake-792
+run_uuid: b1170cde9bb149d4bd4dbfcb3febf445
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739787656414
+status: 3
+tags: []
+user_id: Kshitij

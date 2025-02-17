@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Kshitij/OneDrive/Desktop/mlops/Mloops-MLflow/mlruns/271732951353043961/5b82ab011fe0442ab714b01ab7ff5170/artifacts
+end_time: 1739787821171
+entry_point_name: ''
+experiment_id: '271732951353043961'
+lifecycle_stage: active
+run_id: 5b82ab011fe0442ab714b01ab7ff5170
+run_name: monumental-loon-149
+run_uuid: 5b82ab011fe0442ab714b01ab7ff5170
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739787821141
+status: 3
+tags: []
+user_id: Kshitij

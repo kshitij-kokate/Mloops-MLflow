@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Kshitij/OneDrive/Desktop/mlops/Mloops-MLflow/mlruns/271732951353043961/46b86debba454ca59b3700dce7d33c67/artifacts
+end_time: 1739787656390
+entry_point_name: ''
+experiment_id: '271732951353043961'
+lifecycle_stage: active
+run_id: 46b86debba454ca59b3700dce7d33c67
+run_name: luminous-frog-782
+run_uuid: 46b86debba454ca59b3700dce7d33c67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739787656364
+status: 3
+tags: []
+user_id: Kshitij

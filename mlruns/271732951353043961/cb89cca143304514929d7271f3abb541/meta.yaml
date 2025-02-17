@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Kshitij/OneDrive/Desktop/mlops/Mloops-MLflow/mlruns/271732951353043961/cb89cca143304514929d7271f3abb541/artifacts
+end_time: 1739787820911
+entry_point_name: ''
+experiment_id: '271732951353043961'
+lifecycle_stage: active
+run_id: cb89cca143304514929d7271f3abb541
+run_name: useful-bear-712
+run_uuid: cb89cca143304514929d7271f3abb541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739787820891
+status: 3
+tags: []
+user_id: Kshitij

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Kshitij/OneDrive/Desktop/mlops/Mloops-MLflow/mlruns/271732951353043961/bf856a23e2d242bfa71f76ce39d1b77a/artifacts
+end_time: 1739787663281
+entry_point_name: ''
+experiment_id: '271732951353043961'
+lifecycle_stage: active
+run_id: bf856a23e2d242bfa71f76ce39d1b77a
+run_name: skittish-boar-692
+run_uuid: bf856a23e2d242bfa71f76ce39d1b77a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739787652390
+status: 3
+tags: []
+user_id: Kshitij

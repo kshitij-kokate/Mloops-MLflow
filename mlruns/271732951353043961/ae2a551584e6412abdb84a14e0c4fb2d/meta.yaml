@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Kshitij/OneDrive/Desktop/mlops/Mloops-MLflow/mlruns/271732951353043961/ae2a551584e6412abdb84a14e0c4fb2d/artifacts
+end_time: 1739787656414
+entry_point_name: ''
+experiment_id: '271732951353043961'
+lifecycle_stage: active
+run_id: ae2a551584e6412abdb84a14e0c4fb2d
+run_name: unleashed-wren-32
+run_uuid: ae2a551584e6412abdb84a14e0c4fb2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739787656394
+status: 3
+tags: []
+user_id: Kshitij

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Kshitij/OneDrive/Desktop/mlops/Mloops-MLflow/mlruns/271732951353043961/82af8fbac78c41399ecfa6dea0ee76e6/artifacts
+end_time: 1739787821221
+entry_point_name: ''
+experiment_id: '271732951353043961'
+lifecycle_stage: active
+run_id: 82af8fbac78c41399ecfa6dea0ee76e6
+run_name: rumbling-flea-3
+run_uuid: 82af8fbac78c41399ecfa6dea0ee76e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739787821204
+status: 3
+tags: []
+user_id: Kshitij

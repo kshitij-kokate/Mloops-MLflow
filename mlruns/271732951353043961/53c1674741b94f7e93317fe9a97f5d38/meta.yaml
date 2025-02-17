@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Kshitij/OneDrive/Desktop/mlops/Mloops-MLflow/mlruns/271732951353043961/53c1674741b94f7e93317fe9a97f5d38/artifacts
+end_time: 1739787656214
+entry_point_name: ''
+experiment_id: '271732951353043961'
+lifecycle_stage: active
+run_id: 53c1674741b94f7e93317fe9a97f5d38
+run_name: capable-rook-15
+run_uuid: 53c1674741b94f7e93317fe9a97f5d38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739787656183
+status: 3
+tags: []
+user_id: Kshitij

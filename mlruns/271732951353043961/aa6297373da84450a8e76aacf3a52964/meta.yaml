@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Kshitij/OneDrive/Desktop/mlops/Mloops-MLflow/mlruns/271732951353043961/aa6297373da84450a8e76aacf3a52964/artifacts
+end_time: 1739787821191
+entry_point_name: ''
+experiment_id: '271732951353043961'
+lifecycle_stage: active
+run_id: aa6297373da84450a8e76aacf3a52964
+run_name: caring-shoat-821
+run_uuid: aa6297373da84450a8e76aacf3a52964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739787821171
+status: 3
+tags: []
+user_id: Kshitij
